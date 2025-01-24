@@ -9,15 +9,15 @@ class ImageConstant {
   static const String imgImage7 = '$imagePath/Image_5.jpg';
   static const String imgLogo = '$imagePath/image_20323.png';
   static const String imgBackground1x26 = '$imagePath/img_background_1x26.jpg';
-  static const String imgNavHome = '$imagePath/Image_4.jpg';
-  static const String imgNavSearch = '$imagePath/Image_3.jpg';
-  static const String imgNavSubmit = '$imagePath/Image_2.jpg';
-  static const String imgNavNotifications = '$imagePath/Image_1.jpg';
+  static const String imgNavHome = '$imagePath/Image_4.png';
+  static const String imgNavSearch = '$imagePath/Image_3.png';
+  static const String imgNavSubmit = '$imagePath/Image_2.png';
+  static const String imgNavNotifications = '$imagePath/Image_1.png';
   static const String imgNavProfile = '$imagePath/img_nav_profile.jpg';
   static const String imgRewind = '$imagePath/img_rewind.svg';
   static const String imgImage44x48 = '$imagePath/img_image_44x48.jpg';
-  static const String imgNavSubmit14x14 = '$imagePath/Image_33.jpg';
-  static const String imgNavProfile16x16 = '$imagePath/Image_40.jpg';
+  static const String imgNavSubmit14x14 = '$imagePath/Image_2.png';
+  static const String imgNavProfile16x16 = '$imagePath/Image.png';
   static const String imgBackground5x138 =
       '$imagePath/img_background_5x138.jpg';
   static const String imgImage8 = '$imagePath/img_image_8.jpg';
